@@ -30,12 +30,10 @@ class Program
         {
             Console.WriteLine("You can go to the museum for free ");
         }
-        else 
+        else
         {
-           Console.WriteLine("You need to pay for a ticket ");
+            Console.WriteLine("You need to pay for a ticket ");
         }
-      
         Console.WriteLine("\nDone.");
-      
     }
 }
